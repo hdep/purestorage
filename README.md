@@ -1,0 +1,2 @@
+# purestorage
+Purestorage collection script
